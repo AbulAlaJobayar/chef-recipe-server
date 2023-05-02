@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chef_name": "Gordon Ramsay",
+    "chef_picture": "https://example.com/gordon-ramsay.jpg",
+    "years_of_experience": 25,
+    "number_of_recipes": 200,
+    "like": 5000
+  },
+  {
+    "id": 2,
+    "chef_name": "Jamie Oliver",
+    "chef_picture": "https://example.com/jamie-oliver.jpg",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "like": 3000
+  },
+  {
+    "id": 3,
+    "chef_name": "Nigella Lawson",
+    "chef_picture": "https://example.com/nigella-lawson.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "like": 2500
+  },
+  {
+    "id": 4,
+    "chef_name": "Nigella Lawson",
+    "chef_picture": "https://example.com/nigella-lawson.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "like": 2500
+  },
+  {
+    "id": 5,
+    "chef_name": "Nigella Lawson",
+    "chef_picture": "https://example.com/nigella-lawson.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "like": 2500
+  },
+  {
+    "id": 5,
+    "chef_name": "Nigella Lawson",
+    "chef_picture": "https://example.com/nigella-lawson.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 100,
+    "like": 2500
+  }
+]
