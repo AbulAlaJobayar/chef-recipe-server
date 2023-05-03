@@ -1,15 +1,20 @@
 const express= require('express')
 const app =express();
 const cors = require('cors');
-const port = 5000;
-app.use(cors())
+const port =process.env.PORT || 5000;
 const data= require('./date/data.json')
 
+app.use(cors())
 app.get('/',(req,res)=>{
     res.send('hello world')
 })
-app.get('/news',(req,res)=>{
+app.get('/services',(req,res)=>{
     res.send(data)
+})
+app.get('/services/:id',(req,res)=>{
+    const id= req.params.id;
+    const selectedService=data.find((d)=>d.id==id);
+    res.send(selectedService);
 })
 
 app.listen(port,()=>{
