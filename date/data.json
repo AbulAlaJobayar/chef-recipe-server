@@ -3,54 +3,54 @@
     "id": 1,
     "chef_name": "Moktadir Ahmed",
     "chef_picture": "https://i.ibb.co/wL4PKGs/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
-    "short_bio": "A self-taught chef with a passion for regional Bangladeshi cuisine.",
+    "short_bio": "A self-taught chef with a passion for regional Bangladeshi cuisine.is a well-known chef in Bangladesh who has earned a reputation for his traditional Bengali cuisine. He has been in the culinary industry for over 20 years and has worked in some of the most prestigious restaurants in the country. His specialty is cooking seafood and his Prawn Malai Curry is a must-try.",
     "years_of_experience": 10,
     "number_of_recipes": 50,
-    "like": 0
+    "like": 50
   },
   {
     "id": 2,
     "chef_name": "Nadia Karim",
     "chef_picture": "https://i.ibb.co/jJbnZ97/michael-wave-CYn-QUywz-Bt-I-unsplash.jpg",
-    "short_bio": "A classically trained chef who specializes in fusion cuisine.",
+    "short_bio": "A classically trained chef who specializes in fusion cuisine. She is known for her contemporary twist on traditional Bangladeshi cuisine. Chef Farzana's innovative dishes have gained her a large following on social media, and her restaurant has quickly become one of the most popular in the country.",
     "years_of_experience": 15,
     "number_of_recipes": 75,
-    "like": 0
+    "like": 100
   },
   {
     "id": 3,
     "chef_name": "Sadia Debnath",
     "chef_picture": "https://i.ibb.co/M190xw8/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
-    "short_bio": "A celebrity chef known for her innovative take on traditional Bangladeshi dishes.",
+    "short_bio": "A celebrity chef known for her innovative take on traditional Bangladeshi dishes, famous for her expertise in vegetarian cooking. She has been in the culinary industry for over 15 years and has won numerous awards for her delicious and healthy vegetarian dishes. Chef Munni's signature dish is her Vegetable Biryani, which is a favorite among vegetarians and non-vegetarians alike..",
     "years_of_experience": 20,
     "number_of_recipes": 100,
-    "like": 0
+    "like": 79
   },
   {
     "id": 4,
     "chef_name": "Kamrul Islam",
     "chef_picture": "https://i.ibb.co/LS13skQ/petr-sevcovic-e5-Q5v-WO55u-U-unsplash.jpg",
-    "short_bio": "A chef with a passion for using fresh, locally sourced ingredients.",
+    "short_bio": "A chef with a passion for using fresh, locally sourced ingredients.known for his expertise in Mughlai cuisine. He has been in the culinary industry for over 25 years and has worked in some of the most renowned restaurants in the country. Chef Ali's specialty is his Kacchi Biriyani, which is a delicacy in Bangladesh and is made with marinated meat and fragrant rice.",
     "years_of_experience": 8,
     "number_of_recipes": 40,
-    "like": 0
+    "like": 200
   },
   {
     "id": 5,
     "chef_name": "Anika Islam",
     "chef_picture": "https://i.ibb.co/MB5zmtf/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
-    "short_bio": "A pastry chef who specializes in traditional Bangladeshi sweets and desserts.",
+    "short_bio": "A pastry chef who specializes in traditional Bangladeshi sweets and desserts.known for his innovative fusion dishes. He completed his culinary training in France and has worked in some of the top restaurants in the country. Chef Tony's signature dish is his Lobster Bisque, which is highly sought after by foodies across the country.",
     "years_of_experience": 12,
     "number_of_recipes": 60,
-    "like": 0
+    "like": 500
   },
   {
     "id": 6,
     "chef_name": "Abdul Kader",
     "chef_picture": "https://i.ibb.co/wL4PKGs/febrian-zakaria-Si-Qgni-cq-Fg-unsplash.jpg",
-    "short_bio": "A chef with a passion for rustic, home-style cooking.",
+    "short_bio": "A chef with a passion for rustic, home-style cooking. famous for her expertise in dessert-making. She has been in the culinary industry for over 10 years and has won numerous awards for her delicious and innovative desserts. Chef Khurshida's specialty is her Mishti Doi, which is a traditional Bengal",
     "years_of_experience": 5,
     "number_of_recipes": 20,
-    "like": 0
+    "like":800
   }
 ]
