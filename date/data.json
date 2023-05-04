@@ -10,18 +10,21 @@
     "recipes": [
       {
         "id": 1,
+        "rating":4.5,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":5,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
       },
       {
         "id": 3,
+        "rating":4.9,
         "name": "Beef Stroganoff",
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
@@ -40,12 +43,14 @@
     "recipes": [
       {
         "id": 1,
+        "rating":4.7,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":4.5,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
@@ -53,6 +58,7 @@
       {
         "id": 3,
         "name": "Beef Stroganoff",
+        "rating":5,
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
       }
@@ -69,18 +75,21 @@
     "recipes": [
       {
         "id": 1,
+        "rating":4.5,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":4.9,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
       },
       {
         "id": 3,
+        "rating":4.7,
         "name": "Beef Stroganoff",
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
@@ -98,18 +107,21 @@
     "recipes": [
       {
         "id": 1,
+        "rating":5,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":4.5,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
       },
       {
         "id": 3,
+        "rating":4.9,
         "name": "Beef Stroganoff",
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
@@ -127,18 +139,21 @@
     "recipes": [
       {
         "id": 1,
+        "rating":4.5,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":5,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
       },
       {
         "id": 3,
+        "rating":4,
         "name": "Beef Stroganoff",
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
@@ -156,18 +171,21 @@
     "recipes": [
       {
         "id": 1,
+        "rating":4.5,
         "name": "Spaghetti Carbonara",
         "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
         "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
       },
       {
         "id": 2,
+        "rating":4.5,
         "name": "Chicken Tikka Masala",
         "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
         "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
       },
       {
         "id": 3,
+        "rating":4.5,
         "name": "Beef Stroganoff",
         "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
         "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
