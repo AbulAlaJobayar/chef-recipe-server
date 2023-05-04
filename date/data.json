@@ -6,7 +6,28 @@
     "short_bio": "A self-taught chef with a passion for regional Bangladeshi cuisine.is a well-known chef in Bangladesh who has earned a reputation for his traditional Bengali cuisine. He has been in the culinary industry for over 20 years and has worked in some of the most prestigious restaurants in the country. His specialty is cooking seafood and his Prawn Malai Curry is a must-try.",
     "years_of_experience": 10,
     "number_of_recipes": 50,
-    "like": 50
+    "like": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
+    
   },
   {
     "id": 2,
@@ -15,7 +36,27 @@
     "short_bio": "A classically trained chef who specializes in fusion cuisine. She is known for her contemporary twist on traditional Bangladeshi cuisine. Chef Farzana's innovative dishes have gained her a large following on social media, and her restaurant has quickly become one of the most popular in the country.",
     "years_of_experience": 15,
     "number_of_recipes": 75,
-    "like": 100
+    "like": 100,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +65,27 @@
     "short_bio": "A celebrity chef known for her innovative take on traditional Bangladeshi dishes, famous for her expertise in vegetarian cooking. She has been in the culinary industry for over 15 years and has won numerous awards for her delicious and healthy vegetarian dishes. Chef Munni's signature dish is her Vegetable Biryani, which is a favorite among vegetarians and non-vegetarians alike..",
     "years_of_experience": 20,
     "number_of_recipes": 100,
-    "like": 79
+    "like": 79,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +94,27 @@
     "short_bio": "A chef with a passion for using fresh, locally sourced ingredients.known for his expertise in Mughlai cuisine. He has been in the culinary industry for over 25 years and has worked in some of the most renowned restaurants in the country. Chef Ali's specialty is his Kacchi Biriyani, which is a delicacy in Bangladesh and is made with marinated meat and fragrant rice.",
     "years_of_experience": 8,
     "number_of_recipes": 40,
-    "like": 200
+    "like": 200,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +123,27 @@
     "short_bio": "A pastry chef who specializes in traditional Bangladeshi sweets and desserts.known for his innovative fusion dishes. He completed his culinary training in France and has worked in some of the top restaurants in the country. Chef Tony's signature dish is his Lobster Bisque, which is highly sought after by foodies across the country.",
     "years_of_experience": 12,
     "number_of_recipes": 60,
-    "like": 500
+    "like": 500,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,6 +152,26 @@
     "short_bio": "A chef with a passion for rustic, home-style cooking. famous for her expertise in dessert-making. She has been in the culinary industry for over 10 years and has won numerous awards for her delicious and innovative desserts. Chef Khurshida's specialty is her Mishti Doi, which is a traditional Bengal",
     "years_of_experience": 5,
     "number_of_recipes": 20,
-    "like":800
+    "like":800,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "image": "https://i.ibb.co/RBtLqgN/bruna-branco-t8h-Tmte4-O-g-unsplash-500x500.jpg",
+        "method": "1. Cook spaghetti according to package instructions. 2. In a separate pan, cook diced pancetta until crispy. 3. In a bowl, whisk together eggs, grated parmesan cheese, and black pepper. 4. Drain spaghetti and add it to the pan with pancetta. 5. Remove from heat and add egg mixture, tossing quickly to coat spaghetti. Serve immediately."
+      },
+      {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "image": "https://i.ibb.co/gMNTBNn/amirali-mirhashemian-ZSuk-CSw5-VV4-unsplash-500x500.jpg",
+        "method": "1. Marinate chicken in yogurt, spices, and lemon juice. 2. Grill or bake chicken until cooked through. 3. In a separate pan, sauté onions and garlic. 4. Add canned tomatoes and simmer. 5. Add cooked chicken and cream. 6. Serve with rice and naan bread."
+      },
+      {
+        "id": 3,
+        "name": "Beef Stroganoff",
+        "image": "https://i.ibb.co/BP6SpcR/orkun-orcan-wkms-Rl-Ou-DU-unsplash-500x500.jpg",
+        "method": "1. Cut beef into thin strips and season with salt and pepper. 2. In a pan, cook beef until browned. 3. Remove beef from pan and set aside. 4. In the same pan, sauté onions and mushrooms. 5. Add flour and cook until golden brown. 6. Add beef broth and simmer until thickened. 7. Add cooked beef and sour cream. 8. Serve with egg noodles."
+      }
+    ]
   }
 ]
