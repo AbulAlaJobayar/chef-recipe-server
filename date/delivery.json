@@ -1,0 +1,22 @@
+[
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/98928r5/img11.jpg",
+        "title": "Delivery your food",
+        "description": "Delivery your best order to your destination"
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/Z8WQP4L/img2.jpg",
+        "title": "Order has arrived",
+        "description": "Your best order has arrived at your destination"
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/YT9pc8N/img3.jpg",
+        "title": "Order ready serve",
+        "description": "Your order has arrived and ready to be served ready."
+      }
+    ]
+  
+  
